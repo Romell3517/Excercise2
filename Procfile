@@ -1,1 +1,1 @@
-web: java -jar Dspring.spring.profiles.active=prod build/libs/Excercise-1.0.jar
+web: java -jar -Dspring.profiles.active=prod build/libs/Excercise-1.0.jar
